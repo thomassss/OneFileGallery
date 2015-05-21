@@ -12,5 +12,11 @@ create a simple image gallery with a single php file
 
 * "_" will be rendered to whitespaces
 
+## Features
+
+* easy to use
+* fully responsive (Bootstrap)
+* fullscreen Lightbox
+
 
 View a working example at http://t-sauer.de/fotos/
